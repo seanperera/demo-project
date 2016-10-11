@@ -1,2 +1,4 @@
-# demo-project
-My first GitHub demo project for learning
+# Demo Project
+###@seanperera's first GitHub demo project
+
+This repo was created for learing.
